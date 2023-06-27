@@ -1,0 +1,17 @@
+{
+  "posts": [
+    {
+      "title": "safgsafdsdaf",
+      "body": "afsdsadfsa",
+      "author": "Mary Jane",
+      "id": 1
+    },
+    {
+      "title": "fadsfsadf",
+      "body": "2fasdfsadf",
+      "author": "Mary Jane",
+      "id": 2
+    }
+  ],
+  "users": []
+}
